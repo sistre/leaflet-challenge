@@ -130,3 +130,6 @@ dmypy.json
 
 # Mac System Files
 .DS_Store
+
+# config.js API Key File
+config.js
