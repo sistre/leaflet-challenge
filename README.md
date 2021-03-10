@@ -17,5 +17,5 @@ A live version can be seen here: https://sistre.github.io/leaflet-challenge/Leaf
 ## How to test the files in this repository
 The files in this repository can be run as-is when downloaded and placed in the same file scructure. However, both levels require an additional file named config.js to be place in the /static/js folder. This file requires the following line of code which requires a token from Mapbox.com:
 
-const API_KEY = "<Place Mapbox Token Here>";
+const API_KEY = "Place Mapbox Token Here";
 
